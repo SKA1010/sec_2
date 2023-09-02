@@ -36,7 +36,7 @@ sudo ecryptfs-migrate-home -u ska
 
 ### Решение 2
 
-Вначале видим наш новый раздел на 1ТБ:
+Вначале видим наш новый раздел на 1ГБ:
 
 ![3](https://github.com/SKA1010/sec_2/assets/125235217/040ba684-0296-4dad-99fc-b9224c54ff5c)
 
